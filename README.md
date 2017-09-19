@@ -78,9 +78,9 @@ BluetoothKit---Android Bluetooth Framework
 ------
 
 有问题或建议可以给我邮件，到我的博客留言，或者加QQ群
- - Email: dingjikerbo@gmail.com
- - Blog: http://blog.csdn.net/dingjikerbo
- - QQ群: 112408886
+ - QQ交流群: 484550574
+ - 博客（简书）: http://www.jianshu.com/u/28a4d1accff3
+ - 出处：https://github.com/dingjikerbo/BluetoothKit
  
 ------
 
